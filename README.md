@@ -48,16 +48,28 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Mr. Robot
 * Tuan Le
   * Running Man 
+<<<<<<< HEAD
+* Ganzolboo Ayurzana
+  * I robot
+  * Mr. Robot 
+<<<<<<< HEAD
+* Carlos Velasco
+  * Black Panther  
+ 
+
 * Osbaldo Martinez
   * Overlord
 * Ganzolboo Ayurzana
   * I robot
 * Tacho Gardiner
   * FLCL
+<<<<<<< HEAD
 * Nima Bullock
   * Bojack Horseman
 * Nicholas Besse
   * Breaking Bad
+* Tahir Dar
+  * Game of Thrones
 
 ## Table
 | Name | Show|
@@ -83,6 +95,7 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Pyae Naing | Preacher |
 | Sydney Lou Morano | Steven Universe |
 | Jonathan Kaldani | Mr. Robot
+| Carlos Velasco | Black Panther|
 | Osbaldo Martinez| Overlord |
 | Tuan Le | Running Man |
 | Jonathan Kaldani | Mr. Robot |
@@ -91,3 +104,5 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Tacho Gardiner | FLCL |
 | Nima Bullock | Bojack Horseman |
 | Nicholas Besse | Breaking Bad |
+| Tahir Dar | Game of Thrones |
+
