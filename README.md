@@ -39,8 +39,15 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 * Joel Samaniego Campos
   * Game of Thrones
 * Jonathan Kaldani 
+<<<<<<< HEAD
+  * Mr. Robot
+* Tuan Le
+  * Running Man 
+ 
+=======
   * Mr. Robot 
 
+>>>>>>> 75fcad4225245b412a15e4abac8c0107219de71a
 ## Table
 | Name | Show|
 | ------------- | ------------- |
@@ -62,4 +69,9 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Zihao Wu | Running Man |
 | Pyae Naing | Preacher |
 | Sydney Lou Morano | Steven Universe |
+<<<<<<< HEAD
+| Jonathan Kaldani | Mr. Robot
+| Tuan Le | Running Man |
+=======
 | Jonathan Kaldani | Mr. Robot |
+>>>>>>> 9e01783a46630554ef0963ac376910d21a9dad8d
