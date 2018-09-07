@@ -1,21 +1,23 @@
 # Lab 1
 Write your name in the list, and enter it in the table. Make a sub bullet point for your favorite tv show.
 
-## List
-<<<<<<< HEAD
 
-=======
- 
-## Table
->>>>>>> 46720dee1c3261d551788b218d83088a3887286a
+## List
+
 * Brian Parra
   * Game of thrones
 * David Dropping
   * Game of thrones
 * Tyler Floyd
     * Rick and Morty
+* Edwin Menjivar
+  * Arrow 
 * Marlon Johnson
     * Enchanted
+* Leslie Zhou
+    * Dexter
+* May Naing
+    * Black Mirror
 * Abdulaziz Alharbi
   * Narcos
 * Leslie Zhou
@@ -24,21 +26,38 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Game of thrones
 * Sawyer Nixon
   * Atlanta
+* Frank Yang
+  * Game of thrones
 * Yangyifan Wang
   * Big Bang Theory
+*Merewan Jemal
+  * Flash
+*Merewan Jemal
+  * Flash
 * May Naing
-    * Black Mirror
+  * Black Mirror
 * Zihao Wu
   * Running Man
 * Shota Ebikawa
   * Rick and Morty
+* Pyae Naing
+  * Preacher
+* Sydney Lou Morano
+  * Steven Universe
+* Joel Samaniego Campos
+  * Game of Thrones
 * Jonathan Kaldani 
+  * Mr. Robot
+* Tuan Le
+  * Running Man 
+* Ganzolboo Ayurzana
+  * I robot
   * Mr. Robot 
- 
-<<<<<<< HEAD
- 
-=======
->>>>>>> 46720dee1c3261d551788b218d83088a3887286a
+* Osbaldo Martinez
+  *Overlord
+* Ganzolboo Ayurzana
+  * I robot
+
 ## Table
 | Name | Show|
 | ------------- | ------------- |
@@ -49,8 +68,11 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Tyler Floyd | Rick and Morty|
 | David Dropping     | Game Of Thrones|
 | Tyler Floyd | Rick and Morty|
+| Edwin Menjivar  | Arrow|
+| Marlon Johnson | Enchanted |
+| Leslie Zhou | Dexter |
 | Frank Yang     | Game Of Thrones|
-|Joel Samaniego Campos | Game of Thrones|
+| Joel Samaniego Campos | Game of Thrones|
 | Marlon Johnson | Enchanted |
 | Leslie Zhou | Dexter |
 | Frank Yang   | Game Of Thrones|
@@ -60,4 +82,12 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Abdulaziz | Narcos |
 | May Naing | Black Mirror |
 | Zihao Wu | Running Man |
+| Pyae Naing | Preacher |
+| Sydney Lou Morano | Steven Universe |
 | Jonathan Kaldani | Mr. Robot
+|Osbaldo Martinez| Overlord |
+| Tuan Le | Running Man |
+| Jonathan Kaldani | Mr. Robot |
+|Merewan Jemal | Flash |
+|Merewan Jemal | Flash |
+| Ganzolboo Ayurzana | I robot |
