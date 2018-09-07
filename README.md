@@ -29,7 +29,9 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 * Joel Samaniego Campos
   * Game of Thrones
 * Jonathan Kaldani 
-  * Mr. Robot 
+  * Mr. Robot
+* Tuan Le
+  * Running Man 
  
 ## Table
 | Name | Show|
@@ -48,3 +50,4 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | May Naing | Black Mirror |
 | Zihao Wu | Running Man |
 | Jonathan Kaldani | Mr. Robot
+| Tuan Le | Running Man |
