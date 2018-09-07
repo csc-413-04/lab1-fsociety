@@ -10,8 +10,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
     * Rick and Morty
 * Frank Yang
   * Game of thrones
-*Joel Samaniego Campos
-	*Game of Thrones  
+* Joel Samaniego Campos
+  * Game of Thrones  
 * Marlon Johnson
     * Enchanted
 * Leslie Zhou
