@@ -9,9 +9,14 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 * Tyler Floyd
     * Rick and Morty
 * Edwin Menjivar
-  * Arrow
- 
- 
+  * Arrow 
+* Marlon Johnson
+    * Enchanted
+* Leslie Zhou
+    * Dexter
+
+
+
 ## Table
 | Name | Show|
 | ------------- | ------------- |
@@ -19,3 +24,6 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | David Dropping     | Game Of Thrones|
 | Tyler Floyd | Rick and Morty|
 | Edwin Menjivar  | Arrow|
+| Marlon Johnson | Enchanted |
+| Leslie Zhou | Dexter |
+
