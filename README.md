@@ -4,7 +4,7 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 ## List
 * Brian Parra
   * Game of thrones
-* Brian Parra
+* David Dropping
   * Game of thrones
  
  
@@ -13,4 +13,4 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Name | Show|
 | ------------- | ------------- |
 | Brian Parra     | Game Of Thrones|
-| Brian Parra     | Game Of Thrones|
+| David Dropping     | Game Of Thrones|
