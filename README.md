@@ -14,10 +14,14 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 =======
 * Brian Parra
   * Game of thrones
+* Jaren Lynch
+  * Some show
 * David Dropping
   * Game of thrones
 * Tyler Floyd
     * Rick and Morty
+* Jaren Lynch
+  * Some show
 * Frank Yang
   * Game of thrones
 *Joel Samaniego Campos
@@ -28,17 +32,30 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
     * Dexter
 * Sawyer Nixon
   * Atlanta
+* Yangyifan Wang
+  * Big Bang Theory
+
     
 ## Table
 | Name | Show|
 | ------------- | ------------- |
 | Brian Parra     | Game Of Thrones|
+| Jaren Lynch     | Some show|
+
+
+
+
+
+
+
+
+| ------------- | ------------- |
+| Tyler Floyd | Rick and Morty
 | David Dropping     | Game Of Thrones|
 | Tyler Floyd | Rick and Morty|
 | Frank Yang     | Game Of Thrones|
 |Joel Samaniego Campos | Game of Thrones|
 | Marlon Johnson | Enchanted |
 | Leslie Zhou | Dexter |
-| Sawyer Nixon    |     Atlanta    |
-
->>>>>>> 3747ae2e29f802b4d4c284a3f22215958cfc8b0c
+| Sawyer Nixon | Atlanta|
+| Yangyifan Wang | Big Bang Theory |
