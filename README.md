@@ -30,9 +30,9 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Game of thrones
 * Yangyifan Wang
   * Big Bang Theory
-*Merewan Jemal
+* Merewan Jemal
   * Flash
-*Merewan Jemal
+* Merewan Jemal
   * Flash
 * May Naing
   * Black Mirror
