@@ -22,6 +22,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
     * Dexter
 * Sawyer Nixon
   * Atlanta
+* Frank Yang
+  * Game of thrones
 * Yangyifan Wang
   * Big Bang Theory
 * May Naing
@@ -30,7 +32,6 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Running Man
 * Shota Ebikawa
   * Rick and Morty
-<<<<<<< HEAD
 * Sydney Lou Morano
   * Steven Universe
 * Joel Samaniego Campos
@@ -65,5 +66,9 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | May Naing | Black Mirror |
 | Zihao Wu | Running Man |
 | Sydney Lou Morano | Steven Universe |
+<<<<<<< HEAD
 | Jonathan Kaldani | Mr. Robot
 | Tuan Le | Running Man |
+=======
+| Jonathan Kaldani | Mr. Robot |
+>>>>>>> 9e01783a46630554ef0963ac376910d21a9dad8d
