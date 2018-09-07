@@ -54,6 +54,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * I robot
 * Tacho Gardiner
   * FLCL
+* Nima Bullock
+  * Bojack Horseman
 
 ## Table
 | Name | Show|
@@ -79,9 +81,10 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Pyae Naing | Preacher |
 | Sydney Lou Morano | Steven Universe |
 | Jonathan Kaldani | Mr. Robot
-|Osbaldo Martinez| Overlord |
+| Osbaldo Martinez| Overlord |
 | Tuan Le | Running Man |
 | Jonathan Kaldani | Mr. Robot |
-|Merewan Jemal | Flash |
+| Merewan Jemal | Flash |
 | Ganzolboo Ayurzana | I robot |
 | Tacho Gardiner | FLCL |
+| Nima Bullock | Bojack Horseman |
