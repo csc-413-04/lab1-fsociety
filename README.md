@@ -30,6 +30,9 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Running Man
 * Shota Ebikawa
   * Rick and Morty
+<<<<<<< HEAD
+* Sydney Lou Morano
+  * Steven Universe
 * Joel Samaniego Campos
   * Game of Thrones
 * Jonathan Kaldani 
@@ -45,7 +48,7 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Marlon Johnson | Enchanted |
 | Leslie Zhou | Dexter |
 | Frank Yang     | Game Of Thrones|
-|Joel Samaniego Campos | Game of Thrones|
+| Joel Samaniego Campos | Game of Thrones|
 | Marlon Johnson | Enchanted |
 | Leslie Zhou | Dexter |
 | Sawyer Nixon | Atlanta|
@@ -54,4 +57,5 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Abdulaziz | Narcos |
 | May Naing | Black Mirror |
 | Zihao Wu | Running Man |
+| Sydney Lou Morano | Steven Universe |
 | Jonathan Kaldani | Mr. Robot
