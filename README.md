@@ -54,7 +54,7 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * I robot
   * Mr. Robot 
 * Osbaldo Martinez
-  *Overlord
+  * Overlord
 * Ganzolboo Ayurzana
   * I robot
 
