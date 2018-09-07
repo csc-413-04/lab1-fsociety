@@ -56,6 +56,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * FLCL
 * Nima Bullock
   * Bojack Horseman
+* Nicholas Besse
+  * Breaking Bad
 
 ## Table
 | Name | Show|
@@ -88,3 +90,4 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Ganzolboo Ayurzana | I robot |
 | Tacho Gardiner | FLCL |
 | Nima Bullock | Bojack Horseman |
+| Nicholas Besse | Breaking Bad |
