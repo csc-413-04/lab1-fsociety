@@ -26,6 +26,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Running Man
 * Shota Ebikawa
   * Rick and Morty
+* Sydney Lou Morano
+  * Steven Universe
  
 ## Table
 | Name | Show|
@@ -43,3 +45,4 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Abdulaziz | Narcos |
 | May Naing | Black Mirror |
 | Zihao Wu | Running Man |
+| Sydney Lou Morano | Steven Universe |
