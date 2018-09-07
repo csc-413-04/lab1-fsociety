@@ -1,7 +1,9 @@
 # Lab 1
 Write your name in the list, and enter it in the table. Make a sub bullet point for your favorite tv show.
- 
-## Table
+
+
+## List
+
 * Brian Parra
   * Game of thrones
 * David Dropping
@@ -22,6 +24,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Narcos
 * Leslie Zhou
     * Dexter
+* Frank Yang
+  * Game of thrones
 * Sawyer Nixon
   * Atlanta
 * Frank Yang
@@ -35,6 +39,10 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
  * Flash
     * May Naing
     * Black Mirror
+* Merewan Jemal
+  * Flash
+* May Naing
+  * Black Mirror
 * Zihao Wu
   * Running Man
 * Shota Ebikawa
@@ -56,11 +64,20 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   *Overlord
 * Ganzolboo Ayurzana
   * I robot
+  * Overlord
+* Ganzolboo Ayurzana
+  * I robot
+* Tacho Gardiner
+  * FLCL
+* Tahir Dar
+  * Game of Thrones
 
 ## Table
 | Name | Show|
 | ------------- | ------------- |
 | Brian Parra     | Game Of Thrones|
+| Jaren Lynch     | Some show|
+| Tyler Floyd | Rick and Morty
 | David Dropping     | Game Of Thrones|
 | Tyler Floyd | Rick and Morty|
 | Marlon Johnson | Enchanted |
@@ -73,6 +90,7 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Joel Samaniego Campos | Game of Thrones|
 | Marlon Johnson | Enchanted |
 | Leslie Zhou | Dexter |
+| Frank Yang   | Game Of Thrones|
 | Sawyer Nixon | Atlanta|
 | Yangyifan Wang | Big Bang Theory |
 | Marlon Johnson | Enchanted | 
@@ -90,3 +108,10 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 |Merewan Jemal | Flash |
 |Merewan Jemal | Flash |
 | Ganzolboo Ayurzana | I robot |
+|Osbaldo Martinez| Overlord |
+| Tuan Le | Running Man |
+| Jonathan Kaldani | Mr. Robot |
+|Merewan Jemal | Flash |
+| Ganzolboo Ayurzana | I robot |
+| Tacho Gardiner | FLCL |
+| Tahir Dar | Game of Thrones |
