@@ -48,15 +48,11 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Mr. Robot
 * Tuan Le
   * Running Man 
-<<<<<<< HEAD
 * Ganzolboo Ayurzana
   * I robot
   * Mr. Robot 
-<<<<<<< HEAD
 * Carlos Velasco
   * Black Panther  
- 
-
 * Osbaldo Martinez
   * Overlord
 * Ganzolboo Ayurzana
@@ -65,7 +61,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * FLCL
 * Tahir Dar
   * Game of Thrones
-
+* Mei Li Chen
+  * Running Man
 
 
 ## Table
@@ -102,4 +99,4 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Ganzolboo Ayurzana | I robot |
 | Tacho Gardiner | FLCL |
 | Tahir Dar | Game of Thrones |
-
+| Mei Li Chen | Running Man |
