@@ -4,10 +4,11 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 ## List
 * Abdulaziz Alharbi
   * Narcos
- 
+* Sawyer Nixon
+  * Atlanta
  
  
 ## Table
 | Name | Show|
 | Abdulaziz | Narcos |
-
+| Sawyer Nixon    |     Atlanta    |
