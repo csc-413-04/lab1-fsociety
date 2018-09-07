@@ -60,6 +60,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 * Ganzolboo Ayurzana
   * I robot
   * Mr. Robot 
+* Carlos Velasco
+  * Black Panther  
 * Osbaldo Martinez
   *Overlord
 * Ganzolboo Ayurzana
@@ -108,6 +110,7 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 |Merewan Jemal | Flash |
 |Merewan Jemal | Flash |
 | Ganzolboo Ayurzana | I robot |
+| Carlos Velasco | Black Panther|
 |Osbaldo Martinez| Overlord |
 | Tuan Le | Running Man |
 | Jonathan Kaldani | Mr. Robot |
