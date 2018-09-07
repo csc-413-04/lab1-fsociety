@@ -18,8 +18,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Some show
 * Frank Yang
   * Game of thrones
-*Joel Samaniego Campos
-	*Game of Thrones  
+* Joel Samaniego Campos
+  * Game of Thrones  
 * Marlon Johnson
     * Enchanted
 <<<<<<< HEAD
@@ -36,6 +36,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 =======
 * Leslie Zhou
     * Dexter
+* Yangyifan Wang
+  * Big Bang Theory
 
     
 ## Table
@@ -67,6 +69,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 |Joel Samaniego Campos | Game of Thrones|
 | Marlon Johnson | Enchanted |
 | Leslie Zhou | Dexter |
+| Yangyifan Wang | Big Bang Theory |
+
 
 
 >>>>>>> 17517e6e0355e9f0887e523627f07f76e8d10240
