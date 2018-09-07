@@ -62,10 +62,15 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
  
   * Mr. Robot 
 <<<<<<< HEAD
+<<<<<<< HEAD
 * Osbaldo Martinez
   *Overlord
  
 =======
+=======
+* Ganzolboo Ayurzana
+  * I robot
+>>>>>>> 19b0e705dafa5a8a8a3a6e06da46aa6e19d14694
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -115,5 +120,6 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 >>>>>>> 1998a13d457b2da5abed97b3eb0d3e04bf77af86
 =======
 |Merewan Jemal | Flash |
+| Ganzolboo Ayurzana | I robot |
 
 >>>>>>> 1da154c84c664064466f1fd1a8d483966064dcf1
