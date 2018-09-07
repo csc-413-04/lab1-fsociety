@@ -32,8 +32,6 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Big Bang Theory
 * Merewan Jemal
   * Flash
-* Merewan Jemal
-  * Flash
 * May Naing
   * Black Mirror
 * Zihao Wu
@@ -50,9 +48,6 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Mr. Robot
 * Tuan Le
   * Running Man 
-* Ganzolboo Ayurzana
-  * I robot
-  * Mr. Robot 
 * Osbaldo Martinez
   * Overlord
 * Ganzolboo Ayurzana
@@ -67,9 +62,6 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Jaren Lynch     | Some show|
 | Tyler Floyd | Rick and Morty
 | David Dropping     | Game Of Thrones|
-| Tyler Floyd | Rick and Morty|
-| David Dropping     | Game Of Thrones|
-| Tyler Floyd | Rick and Morty|
 | Edwin Menjivar  | Arrow|
 | Marlon Johnson | Enchanted |
 | Leslie Zhou | Dexter |
@@ -90,7 +82,6 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 |Osbaldo Martinez| Overlord |
 | Tuan Le | Running Man |
 | Jonathan Kaldani | Mr. Robot |
-|Merewan Jemal | Flash |
 |Merewan Jemal | Flash |
 | Ganzolboo Ayurzana | I robot |
 | Tacho Gardiner | FLCL |
