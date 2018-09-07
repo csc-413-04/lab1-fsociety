@@ -12,7 +12,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
     * Enchanted
 * May Naing
     * Black Mirror
- 
+* Zihao Wu
+  * Running Man
  
  
 ## Table
@@ -23,3 +24,4 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Tyler Floyd | Rick and Morty|
 | Marlon Johnson | Enchanted | 
 | May Naing | Black Mirror |
+| Zihao Wu | Running Man |
