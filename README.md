@@ -12,7 +12,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
     * Enchanted
 * Leslie Zhou
     * Dexter
-
+* Frank Yang
+  * Game of thrones
 
 
 ## Table
@@ -23,3 +24,4 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Tyler Floyd | Rick and Morty|
 | Marlon Johnson | Enchanted |
 | Leslie Zhou | Dexter |
+| Frank Yang   | Game Of Thrones|
