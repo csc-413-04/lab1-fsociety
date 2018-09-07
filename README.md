@@ -8,7 +8,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Game of thrones
 * Tyler Floyd
     * Rick and Morty
- 
+* Frank Yang
+  * Game of thrones
  
  
 ## Table
@@ -17,3 +18,4 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Brian Parra     | Game Of Thrones|
 | David Dropping     | Game Of Thrones|
 | Tyler Floyd | Rick and Morty|
+| Frank Yang     | Game Of Thrones|
