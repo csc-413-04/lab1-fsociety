@@ -26,10 +26,15 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Running Man
 * Shota Ebikawa
   * Rick and Morty
+<<<<<<< HEAD
+* Sydney Lou Morano
+  * Steven Universe
+=======
 * Joel Samaniego Campos
   * Game of Thrones
 * Jonathan Kaldani 
   * Mr. Robot 
+>>>>>>> ec5c87c72362b06b7dc13380cc718c8319143346
  
 ## Table
 | Name | Show|
@@ -48,7 +53,14 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | May Naing | Black Mirror |
 | Zihao Wu | Running Man |
 <<<<<<< HEAD
+<<<<<<< HEAD
 | Shota Ebikawa | Rick and Morty |
 =======
 | Jonathan Kaldani | Mr. Robot
 >>>>>>> 46720dee1c3261d551788b218d83088a3887286a
+=======
+| Sydney Lou Morano | Steven Universe |
+=======
+| Jonathan Kaldani | Mr. Robot
+>>>>>>> ec5c87c72362b06b7dc13380cc718c8319143346
+>>>>>>> 190a380a0f878e673b16c453abadd68a0544856d
