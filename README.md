@@ -3,21 +3,14 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 
 
 ## List
-
 * Brian Parra
   * Game of thrones
 * David Dropping
   * Game of thrones
 * Tyler Floyd
     * Rick and Morty
-* Edwin Menjivar
-  * Arrow 
 * Marlon Johnson
     * Enchanted
-* Leslie Zhou
-    * Dexter
-* May Naing
-    * Black Mirror
 * Abdulaziz Alharbi
   * Narcos
 * Leslie Zhou
@@ -26,10 +19,10 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Game of thrones
 * Sawyer Nixon
   * Atlanta
-* Frank Yang
-  * Game of thrones
 * Yangyifan Wang
   * Big Bang Theory
+* Merewan Jemal
+  * Flash
 * Merewan Jemal
   * Flash
 * May Naing
@@ -38,6 +31,10 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Running Man
 * Shota Ebikawa
   * Rick and Morty
+* Joel Samaniego Campos
+  * Game of Thrones
+* Jonathan Kaldani 
+  * Mr. Robot 
 * Pyae Naing
   * Preacher
 * Sydney Lou Morano
@@ -48,15 +45,11 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Mr. Robot
 * Tuan Le
   * Running Man 
-<<<<<<< HEAD
 * Ganzolboo Ayurzana
   * I robot
   * Mr. Robot 
-<<<<<<< HEAD
 * Carlos Velasco
   * Black Panther  
- 
-
 * Osbaldo Martinez
   * Overlord
 * Ganzolboo Ayurzana
@@ -71,6 +64,12 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 * Tahir Dar
   * Game of Thrones
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> b5d4ca54a38dad7e5b908efcca27790584733a4d
 ## Table
 | Name | Show|
 | ------------- | ------------- |
@@ -78,11 +77,12 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Jaren Lynch     | Some show|
 | Tyler Floyd | Rick and Morty
 | David Dropping     | Game Of Thrones|
+| Tyler Floyd | Rick and Morty|
 | Edwin Menjivar  | Arrow|
 | Marlon Johnson | Enchanted |
 | Leslie Zhou | Dexter |
 | Frank Yang     | Game Of Thrones|
-| Joel Samaniego Campos | Game of Thrones|
+|Joel Samaniego Campos | Game of Thrones|
 | Marlon Johnson | Enchanted |
 | Leslie Zhou | Dexter |
 | Frank Yang   | Game Of Thrones|
@@ -92,11 +92,18 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Abdulaziz | Narcos |
 | May Naing | Black Mirror |
 | Zihao Wu | Running Man |
+|Shota Ebikawa | Rick and Morty |
+| Jonathan Kaldani | Mr. Robot
+| Zihao Wu | Running Man |
 | Pyae Naing | Preacher |
 | Sydney Lou Morano | Steven Universe |
 | Jonathan Kaldani | Mr. Robot
 | Carlos Velasco | Black Panther|
+<<<<<<< HEAD
 | Osbaldo Martinez| Overlord |
+=======
+|Osbaldo Martinez| Overlord |
+>>>>>>> b5d4ca54a38dad7e5b908efcca27790584733a4d
 | Tuan Le | Running Man |
 | Jonathan Kaldani | Mr. Robot |
 | Merewan Jemal | Flash |
@@ -105,4 +112,5 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Nima Bullock | Bojack Horseman |
 | Nicholas Besse | Breaking Bad |
 | Tahir Dar | Game of Thrones |
+
 
