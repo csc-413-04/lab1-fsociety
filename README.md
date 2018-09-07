@@ -16,6 +16,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
     * Enchanted
 * Leslie Zhou
     * Dexter
+* Yangyifan Wang
+  * Big Bang Theory
 
     
 ## Table
@@ -28,5 +30,7 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 |Joel Samaniego Campos | Game of Thrones|
 | Marlon Johnson | Enchanted |
 | Leslie Zhou | Dexter |
+| Yangyifan Wang | Big Bang Theory |
+
 
 
