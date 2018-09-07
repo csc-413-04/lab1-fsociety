@@ -2,6 +2,7 @@
 Write your name in the list, and enter it in the table. Make a sub bullet point for your favorite tv show.
 
 ## List
+<<<<<<< HEAD
 * Brian Parra
   * Game of thrones
 * David Dropping
@@ -10,13 +11,22 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
     * Rick and Morty
 * Marlon Johnson
     * Enchanted
+=======
+* Abdulaziz Alharbi
+  * Narcos
+>>>>>>> b28b9240f0441485fa252d7a55de3d7111b55f75
  
  
  
 ## Table
 | Name | Show|
+<<<<<<< HEAD
 | ------------- | ------------- |
 | Brian Parra     | Game Of Thrones|
 | David Dropping     | Game Of Thrones|
 | Tyler Floyd | Rick and Morty|
 | Marlon Johnson | Enchanted | 
+=======
+| Abdulaziz | Narcos |
+
+>>>>>>> b28b9240f0441485fa252d7a55de3d7111b55f75
