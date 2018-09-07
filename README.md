@@ -2,7 +2,12 @@
 Write your name in the list, and enter it in the table. Make a sub bullet point for your favorite tv show.
 
 ## List
+<<<<<<< HEAD
 
+=======
+ 
+## Table
+>>>>>>> 46720dee1c3261d551788b218d83088a3887286a
 * Brian Parra
   * Game of thrones
 * David Dropping
@@ -23,10 +28,17 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Big Bang Theory
 * May Naing
     * Black Mirror
+* Zihao Wu
+  * Running Man
 * Shota Ebikawa
   * Rick and Morty
+* Jonathan Kaldani 
+  * Mr. Robot 
  
+<<<<<<< HEAD
  
+=======
+>>>>>>> 46720dee1c3261d551788b218d83088a3887286a
 ## Table
 | Name | Show|
 | ------------- | ------------- |
@@ -47,3 +59,5 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Marlon Johnson | Enchanted | 
 | Abdulaziz | Narcos |
 | May Naing | Black Mirror |
+| Zihao Wu | Running Man |
+| Jonathan Kaldani | Mr. Robot
