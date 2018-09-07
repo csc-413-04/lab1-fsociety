@@ -28,7 +28,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Rick and Morty
 * Jonathan Kaldani 
   * Mr. Robot 
- 
+* Tahir Dar
+  * Game of thrones
 ## Table
 | Name | Show|
 | ------------- | ------------- |
@@ -46,3 +47,4 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | May Naing | Black Mirror |
 | Zihao Wu | Running Man |
 | Jonathan Kaldani | Mr. Robot
+| Tahir Dar | Game of Thrones
