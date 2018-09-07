@@ -8,10 +8,6 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Some show
  
  
- 
- 
- * Tyler Floyd
-  *Rick and Morty
 ## Table
 | Name | Show|
 | ------------- | ------------- |
