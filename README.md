@@ -2,6 +2,7 @@
 Write your name in the list, and enter it in the table. Make a sub bullet point for your favorite tv show.
 
 ## List
+<<<<<<< HEAD
 * Brian Parra
   * Game of thrones
 * David Dropping
@@ -25,3 +26,14 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Marlon Johnson | Enchanted |
 | Leslie Zhou | Dexter |
 | Frank Yang   | Game Of Thrones|
+=======
+* Abdulaziz Alharbi
+  * Narcos
+ 
+ 
+ 
+## Table
+| Name | Show|
+| Abdulaziz | Narcos |
+
+>>>>>>> b28b9240f0441485fa252d7a55de3d7111b55f75
