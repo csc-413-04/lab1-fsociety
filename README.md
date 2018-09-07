@@ -9,6 +9,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Game of thrones
 * Tyler Floyd
     * Rick and Morty
+* Edwin Menjivar
+    * Arror
 * Marlon Johnson
     * Enchanted
 * Leslie Zhou
