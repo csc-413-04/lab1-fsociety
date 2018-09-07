@@ -32,8 +32,6 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Big Bang Theory
 * Merewan Jemal
   * Flash
-* Merewan Jemal
-  * Flash
 * May Naing
   * Black Mirror
 * Zihao Wu
@@ -50,19 +48,20 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Mr. Robot
 * Tuan Le
   * Running Man 
+<<<<<<< HEAD
 * Ganzolboo Ayurzana
   * I robot
   * Mr. Robot 
-<<<<<<< HEAD
-* Tahir Dar
-  * Game of thrones
-=======
 * Osbaldo Martinez
-  *Overlord
+  * Overlord
 * Ganzolboo Ayurzana
   * I robot
+* Tacho Gardiner
+  * FLCL
+* Tahir Dar
+  * Game of Thrones
 
->>>>>>> ac40f09058b08455459bdaedcabb2be7d777f005
+
 ## Table
 | Name | Show|
 | ------------- | ------------- |
@@ -70,9 +69,6 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Jaren Lynch     | Some show|
 | Tyler Floyd | Rick and Morty
 | David Dropping     | Game Of Thrones|
-| Tyler Floyd | Rick and Morty|
-| David Dropping     | Game Of Thrones|
-| Tyler Floyd | Rick and Morty|
 | Edwin Menjivar  | Arrow|
 | Marlon Johnson | Enchanted |
 | Leslie Zhou | Dexter |
@@ -90,13 +86,10 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Pyae Naing | Preacher |
 | Sydney Lou Morano | Steven Universe |
 | Jonathan Kaldani | Mr. Robot
-<<<<<<< HEAD
-| Tahir Dar | Game of Thrones
-=======
 |Osbaldo Martinez| Overlord |
 | Tuan Le | Running Man |
 | Jonathan Kaldani | Mr. Robot |
 |Merewan Jemal | Flash |
-|Merewan Jemal | Flash |
 | Ganzolboo Ayurzana | I robot |
->>>>>>> ac40f09058b08455459bdaedcabb2be7d777f005
+| Tacho Gardiner | FLCL |
+| Tahir Dar | Game of Thrones |
