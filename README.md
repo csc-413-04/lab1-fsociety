@@ -2,6 +2,16 @@
 Write your name in the list, and enter it in the table. Make a sub bullet point for your favorite tv show.
 
 ## List
+<<<<<<< HEAD
+* Abdulaziz Alharbi
+  * Narcos
+ 
+ 
+## Table
+| Name | Show|
+| Abdulaziz | Narcos |
+
+=======
 * Brian Parra
   * Game of thrones
 * David Dropping
@@ -11,16 +21,25 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 * Marlon Johnson
     * Enchanted
 <<<<<<< HEAD
+<<<<<<< HEAD
 * Abdulaziz Alharbi
   * Narcos
-
+=======
+* Leslie Zhou
+    * Dexter
+* Sawyer Nixon
+  * Atlanta
+* Yangyifan Wang
+  * Big Bang Theory
 =======
 * May Naing
     * Black Mirror
->>>>>>> 4fbae0ff8dc5a34720be0e565ced37d1cd152420
+* Shota Ebikawa
+  * Rick and Morty
  
  
- 
+<<<<<<< HEAD
+=======
 ## Table
 | Name | Show|
 <<<<<<< HEAD
@@ -28,12 +47,19 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Brian Parra     | Game Of Thrones|
 | David Dropping     | Game Of Thrones|
 | Tyler Floyd | Rick and Morty|
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+| Frank Yang     | Game Of Thrones|
+|Joel Samaniego Campos | Game of Thrones|
+| Marlon Johnson | Enchanted |
+| Leslie Zhou | Dexter |
+| Sawyer Nixon | Atlanta|
+| Yangyifan Wang | Big Bang Theory |
+=======
 | Marlon Johnson | Enchanted | 
 <<<<<<< HEAD
 =======
 | Abdulaziz | Narcos |
-
->>>>>>> b28b9240f0441485fa252d7a55de3d7111b55f75
 =======
 | May Naing | Black Mirror |
->>>>>>> 4fbae0ff8dc5a34720be0e565ced37d1cd152420
