@@ -47,6 +47,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Running Man 
  
   * Mr. Robot 
+* Ganzolboo Ayurzana
+  * I robot
 
 ## Table
 | Name | Show|
@@ -73,4 +75,5 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Tuan Le | Running Man |
 | Jonathan Kaldani | Mr. Robot |
 |Merewan Jemal | Flash |
+| Ganzolboo Ayurzana | I robot |
 
