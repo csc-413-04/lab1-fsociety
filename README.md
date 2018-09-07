@@ -26,6 +26,9 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Running Man
 * Shota Ebikawa
   * Rick and Morty
+* Joel Samaniego Campos
+  * Game of Thrones
+
  
 ## Table
 | Name | Show|
