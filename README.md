@@ -12,6 +12,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
     * Rick and Morty
 * Jaren Lynch
   * Some show
+* Marlon Johnson
+    * Enchanted
  
  
  
@@ -32,3 +34,4 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Tyler Floyd | Rick and Morty
 | David Dropping     | Game Of Thrones|
 | Tyler Floyd | Rick and Morty|
+| Marlon Johnson | Enchanted | 
