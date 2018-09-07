@@ -16,10 +16,6 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
     * Dexter
 * Vanita Rani
     * Friends
-
-
-
-=======
 * May Naing
     * Black Mirror
 * Abdulaziz Alharbi
@@ -32,12 +28,19 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Game of thrones
 * Yangyifan Wang
   * Big Bang Theory
+*Merewan Jemal
+ * Flash
 * May Naing
+*Merewan Jemal
+ * Flash
+    * May Naing
     * Black Mirror
 * Zihao Wu
   * Running Man
 * Shota Ebikawa
   * Rick and Morty
+* Pyae Naing
+  * Preacher
 * Sydney Lou Morano
   * Steven Universe
 * Joel Samaniego Campos
@@ -48,8 +51,11 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Running Man 
 * Ganzolboo Ayurzana
   * I robot
-
   * Mr. Robot 
+* Osbaldo Martinez
+  *Overlord
+* Ganzolboo Ayurzana
+  * I robot
 
 ## Table
 | Name | Show|
@@ -73,7 +79,14 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Abdulaziz | Narcos |
 | May Naing | Black Mirror |
 | Zihao Wu | Running Man |
+| Pyae Naing | Preacher |
 | Sydney Lou Morano | Steven Universe |
 | Jonathan Kaldani | Mr. Robot
 | Tuan Le | Running Man |
 | Jonathan Kaldani | Mr. Robot |
+|Osbaldo Martinez| Overlord |
+| Tuan Le | Running Man |
+| Jonathan Kaldani | Mr. Robot |
+|Merewan Jemal | Flash |
+|Merewan Jemal | Flash |
+| Ganzolboo Ayurzana | I robot |
