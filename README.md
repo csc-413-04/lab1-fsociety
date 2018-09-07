@@ -65,7 +65,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * FLCL
 * Tahir Dar
   * Game of Thrones
-
+* Carlos Roldan
+  * Power
 
 
 ## Table
@@ -91,7 +92,7 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Zihao Wu | Running Man |
 | Pyae Naing | Preacher |
 | Sydney Lou Morano | Steven Universe |
-| Jonathan Kaldani | Mr. Robot
+| Jonathan Kaldani | Mr. Robot|
 
 | Carlos Velasco | Black Panther|
 
@@ -103,3 +104,4 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Tacho Gardiner | FLCL |
 | Tahir Dar | Game of Thrones |
 
+| Carlos Roldan | Power |
