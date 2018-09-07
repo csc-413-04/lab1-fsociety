@@ -14,9 +14,11 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Some show
 * Marlon Johnson
     * Enchanted
- 
- 
- 
+* Leslie Zhou
+    * Dexter
+
+
+
 ## Table
 | Name | Show|
 | ------------- | ------------- |
@@ -34,4 +36,5 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Tyler Floyd | Rick and Morty
 | David Dropping     | Game Of Thrones|
 | Tyler Floyd | Rick and Morty|
-| Marlon Johnson | Enchanted | 
+| Marlon Johnson | Enchanted |
+| Leslie Zhou | Dexter |
