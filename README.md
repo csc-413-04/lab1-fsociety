@@ -26,6 +26,14 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Game of thrones
 * Yangyifan Wang
   * Big Bang Theory
+<<<<<<< HEAD
+=======
+*Merewan Jemal
+ * Flash
+
+    
+=======
+>>>>>>> 1998a13d457b2da5abed97b3eb0d3e04bf77af86
 * May Naing
     * Black Mirror
 * Zihao Wu
@@ -75,6 +83,7 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Marlon Johnson | Enchanted | 
 | Abdulaziz | Narcos |
 | May Naing | Black Mirror |
+<<<<<<< HEAD
 | Zihao Wu | Running Man |
 | Sydney Lou Morano | Steven Universe |
 <<<<<<< HEAD
@@ -87,3 +96,7 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Jonathan Kaldani | Mr. Robot |
 >>>>>>> 9e01783a46630554ef0963ac376910d21a9dad8d
 >>>>>>> 384815db2ad7fd39085277405c9e0db2ceff4cec
+=======
+|Merewan Jemal | Flash |
+>>>>>>> 4fbae0ff8dc5a34720be0e565ced37d1cd152420
+>>>>>>> 1998a13d457b2da5abed97b3eb0d3e04bf77af86
