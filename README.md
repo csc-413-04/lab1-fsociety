@@ -6,11 +6,12 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Game of thrones
 * David Dropping
   * Game of thrones
- 
- 
- 
+
+
+
 ## Table
 | Name | Show|
 | ------------- | ------------- |
 | Brian Parra     | Game Of Thrones|
 | David Dropping     | Game Of Thrones|
+| Leslie Zhou   | Dexter|
