@@ -1,10 +1,7 @@
 # Lab 1
 Write your name in the list, and enter it in the table. Make a sub bullet point for your favorite tv show.
-
-## List
-<<<<<<< HEAD
-* Abdulaziz Alharbi
-  * Narcos
+ 
+## Table
 * Brian Parra
   * Game of thrones
 * David Dropping
@@ -29,10 +26,15 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Big Bang Theory
 * May Naing
     * Black Mirror
+* Zihao Wu
+  * Running Man
 * Shota Ebikawa
   * Rick and Morty
- 
- 
+* Joel Samaniego Campos
+  * Game of Thrones
+* Jonathan Kaldani 
+  * Mr. Robot 
+
 ## Table
 | Name | Show|
 | ------------- | ------------- |
@@ -51,3 +53,5 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Marlon Johnson | Enchanted | 
 | Abdulaziz | Narcos |
 | May Naing | Black Mirror |
+| Zihao Wu | Running Man |
+| Jonathan Kaldani | Mr. Robot
