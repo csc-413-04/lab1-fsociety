@@ -28,6 +28,7 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 	*Game of Thrones  
 * Marlon Johnson
     * Enchanted
+<<<<<<< HEAD
 * Leslie Zhou
     * Dexter
 * Sawyer Nixon
@@ -36,6 +37,13 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Big Bang Theory
 
     
+=======
+* May Naing
+    * Black Mirror
+ 
+ 
+ 
+>>>>>>> 4fbae0ff8dc5a34720be0e565ced37d1cd152420
 ## Table
 | Name | Show|
 | ------------- | ------------- |
@@ -53,9 +61,14 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Tyler Floyd | Rick and Morty
 | David Dropping     | Game Of Thrones|
 | Tyler Floyd | Rick and Morty|
+<<<<<<< HEAD
 | Frank Yang     | Game Of Thrones|
 |Joel Samaniego Campos | Game of Thrones|
 | Marlon Johnson | Enchanted |
 | Leslie Zhou | Dexter |
 | Sawyer Nixon | Atlanta|
 | Yangyifan Wang | Big Bang Theory |
+=======
+| Marlon Johnson | Enchanted | 
+| May Naing | Black Mirror |
+>>>>>>> 4fbae0ff8dc5a34720be0e565ced37d1cd152420
