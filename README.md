@@ -6,6 +6,13 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Game of thrones
 * Jaren Lynch
   * Some show
+* David Dropping
+  * Game of thrones
+* Tyler Floyd
+    * Rick and Morty
+* Jaren Lynch
+  * Some show
+ 
  
  
 ## Table
@@ -23,3 +30,5 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 
 | ------------- | ------------- |
 | Tyler Floyd | Rick and Morty
+| David Dropping     | Game Of Thrones|
+| Tyler Floyd | Rick and Morty|
