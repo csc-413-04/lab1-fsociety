@@ -10,6 +10,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
     * Rick and Morty
 * Frank Yang
   * Game of thrones
+*Joel Samaniego Campos
+	*Game of Thrones  
  
  
 ## Table
@@ -19,3 +21,4 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | David Dropping     | Game Of Thrones|
 | Tyler Floyd | Rick and Morty|
 | Frank Yang     | Game Of Thrones|
+|Joel Samaniego Campos | Game of Thrones|
