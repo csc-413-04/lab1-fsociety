@@ -4,10 +4,13 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 ## List
 * Brian Parra
   * Game of thrones
+* Brian Parra
+  * Game of thrones
  
  
  
 ## Table
 | Name | Show|
 | ------------- | ------------- |
+| Brian Parra     | Game Of Thrones|
 | Brian Parra     | Game Of Thrones|
