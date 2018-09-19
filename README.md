@@ -86,6 +86,8 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
   * Running Man
 * Carlos Roldan
   * Power
+* JJ Gutierrez
+  * Steven Universe
 
 ## Table
 | Name | Show|
@@ -144,3 +146,4 @@ Write your name in the list, and enter it in the table. Make a sub bullet point 
 | Tahir Dar | Game of Thrones |
 | Mei Li Chen | Running Man |
 | Carlos Roldan | Power |
+| JJ Gutierrez | Steven Universe
